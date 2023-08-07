@@ -1,5 +1,15 @@
 # SpringH2DBExample
 
+- pom.xml
+
+```
+		<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+```
+
 ` mvn spring-boot:run `
 
 - application.properties
