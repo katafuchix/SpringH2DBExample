@@ -1,5 +1,7 @@
 # SpringH2DBExample
 
+` mvn spring-boot:run `
+
 - pom.xml
 
 ```
@@ -10,7 +12,7 @@
 		</dependency>
 ```
 
-` mvn spring-boot:run `
+
 
 - application.properties
 
